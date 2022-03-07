@@ -1,0 +1,8 @@
+Subnet Calculator.
+Copyright (CC-BY-NC-SA v4.0) Matthew R. Kisow, D.Sc. 2021-2022.
+
+Version Control Document.
+
+Version		Description		Date		Filename
+2.0		SUBNET CALCULATOR	07-MAR-2022	subnet calculator.xlsm
+
